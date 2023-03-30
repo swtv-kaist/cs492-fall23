@@ -68,7 +68,28 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 ### Part II: Systematic Modeling and Verification by using Process Algebra CCS
 
+- Sep 4: Intro. to Process Algebra
+
+- Sep 9: Formal Semantics of CCS
+
+- Sep 11: Examples of CCS models
+
+- Sep 23: Equivalence Semantics of CCS
+
+- Sep 25: Case study of multiple reader/writer system
+
+- Sep 30: Equivalence hierarchy
+
 ### Part III: Explicit Model Checking by using SPIN Model Checker
+  
+
+- Oct 9th: Computational Tree Logic
+
+- Linear Temporal Logic
+
+- Oct 28th: Model checking- Spin (1/3), Spin (2/3)
+
+- Oct 30th: Spin - advanced features
 
 ### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
