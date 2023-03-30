@@ -80,16 +80,23 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Sep 30: Equivalence hierarchy
 
-### Part III: Explicit Model Checking by using SPIN Model Checker
+### Part III:  Model Checking by using SPIN and NuSMV Model Checkers
   
 
 - Oct 9th: Computational Tree Logic
 
 - Linear Temporal Logic
 
+- Oct 14th: Model checking- NuSMV (1/2)
+
+- Oct 16th: Model checking- NuSMV (2/2)
+
 - Oct 28th: Model checking- Spin (1/3), Spin (2/3)
 
 - Oct 30th: Spin - advanced features
+
+- Esterel
+https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 
 ### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
