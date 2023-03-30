@@ -1,4 +1,4 @@
-# KAIST CS492 Formal Modelling and Verification of SW Systems (Fall'23)
+# KAIST CS492 Formal Modeling and Verification of Complex SW Systems (Fall'23)
 
 
 ## Announcement
