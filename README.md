@@ -66,11 +66,11 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Mar 9: [Overview of testing techniques (including the input partitioning technique)](1-overview/lec3-testing-overview-v3.pptx) [[pdf]](1-overview/lec3-testing-overview-v3.pdf)
 
-### Part II: Systematic Modeling and Verificationof SW by using Process Algebra CCS
+### Part II: Systematic Modeling and Verification by using Process Algebra CCS
 
-### Part III: Explicit Model Checking SW Systems by using SPIN Model Checker
+### Part III: Explicit Model Checking by using SPIN Model Checker
 
-### Part IV: SAT-based Model Checking SW Systems by using CBMC Model Checker
+### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
 - May 16, 18: [SAT-based bounded software model checking](4-model-checking/lec21-model_checking-v3.pptx) [[pdf]](4-model-checking/lec21-model_checking-v3.pdf)
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
