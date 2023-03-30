@@ -26,7 +26,7 @@
   - Highly recommend to take CS458 after taking CS230 System Programming first
  --->
   
-- Grading: attendance/class participation/quiz: 30%, HW: 40%, mid/final exams:40%
+- Grading: attendance/class participation/quiz: 30%, HW: 40%, final exams:40%
   - You should turn on your web cam when you participate an online class; class attendance will not be counted otherwise.
   - More than 7 absences of the class will get F grade
   - Late attendance shall be counted as 1/3 absence. If a student is not able to attend a class due to an important event (e.g., attending conf., etc.), he/she should submit 1 week prior notice to the professor.
