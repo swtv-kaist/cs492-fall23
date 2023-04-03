@@ -1,4 +1,4 @@
-# KAIST CS492 Formal Modeling and Verification of Complex SW Systems (Fall'23)
+# KAIST CS492 Formal Modeling and Verification of Complex Systems (Fall'23)
 
 
 ## Announcement
@@ -45,7 +45,7 @@
 
 
 ## Syllabus
-This class covers formal techniques to model and verify complex SW Systems. It is highly challenging to design and verify SW systems correctly because of the high complexity of SW systems caused by reactive characteristics, concurrency, platform dependency and so on. Students will learn formal techniques to resolve such 
+This class covers formal techniques to model and verify complex systems. It is highly challenging to design and verify systems correctly because of the high complexity of systems caused by reactive characteristics, concurrency, platform dependency and so on. Students will learn formal techniques to resolve such 
 
 systematic SW modeling and verification techniques. automated SW testing/verification techniques to detect SW bugs by analyzing **SW source code** and its **diverse runtime behaviors**. In particular, this class focuses to teach techniques that automatically generate test cases to achieve high code coverage and, thus, to detect many bugs. 
 
