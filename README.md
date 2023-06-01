@@ -15,9 +15,9 @@
 
 - Teaching assistants: Ahcheong Lee (youngseok.choi@kaist.ac.kr)  
 
-- Lecture hours: Tue/Thur 4:00 - 5:15 PM
+- Lecture hours: Tue/Thur 5:30 - 6:15 PM
 
-- Lecture room: E3 Rm#1101 (and through Zoom)
+- Lecture room: E3 Rm#2443 (and through Zoom)
   - a face-to-face lecture on Tues and an online lecture on Thurs (this plan may change later) 
   - Zoom link for Thurs class: https://kaist.zoom.us/j/5258253316
 <!---
@@ -26,7 +26,7 @@
   - Highly recommend to take CS458 after taking CS230 System Programming first
  --->
   
-- Grading: attendance/class participation/quiz: 30%, HW: 40%, final exam:40%
+- Grading: attendance/class participation/quiz: 30%, HW: 30%, final exam:40%
   - You should turn on your web cam when you participate an online class; class attendance will not be counted otherwise.
   - More than 7 absences of the class will get F grade
   - Late attendance shall be counted as 1/3 absence. If a student is not able to attend a class due to an important event (e.g., attending conf., etc.), he/she should submit 1 week prior notice to the professor.
@@ -45,11 +45,9 @@
 
 
 ## Syllabus
-This class covers formal techniques to model and verify complex systems. It is highly challenging to design and verify systems correctly because of the high complexity of systems caused by reactive characteristics, concurrency, platform dependency and so on. Students will learn formal techniques to resolve such 
+This class covers formal techniques to model and verify complex systems. It is highly challenging to design and verify systems correctly because of the high complexity of systems caused by reactive characteristics, concurrency, platform dependency and so on. Students will learn formal techniques to resolve such challenges.
 
-systematic SW modeling and verification techniques. automated SW testing/verification techniques to detect SW bugs by analyzing **SW source code** and its **diverse runtime behaviors**. In particular, this class focuses to teach techniques that automatically generate test cases to achieve high code coverage and, thus, to detect many bugs. 
-
-The class teaches **practical applications** of testing/verification techniques by applying open-source testing/verification tools to complete homework tasks. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of automated testing/verification.
+In particular, this class teaches model checking techniques that automatically generate and explore a large state space of a target program.  Also, the class focusses on  **practical applications** of model checkers by applying open-source model checkers such as Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
 
 ## Course Schedule
 
