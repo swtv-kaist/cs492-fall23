@@ -47,7 +47,7 @@
 ## Syllabus
 This class covers formal techniques to model and verify complex systems. It is highly challenging to design and verify systems correctly because of the high complexity of systems caused by reactive characteristics, concurrency, platform dependency and so on. Students will learn formal techniques to resolve such challenges.
 
-In particular, this class teaches model checking techniques that automatically generate and explore a large state space of a target program.  Also, the class focusses on  **practical applications** of model checkers by applying open-source model checkers such as Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
+In particular, this class teaches model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  Also, the class focusses on  **practical applications** of model checkers by applying open-source model checkers such as Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
 
 ## Course Schedule
 
@@ -85,13 +85,13 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Linear Temporal Logic
 
-- Oct 14th: Model checking- NuSMV (1/2)
-
-- Oct 16th: Model checking- NuSMV (2/2)
-
 - Oct 28th: Model checking- Spin (1/3), Spin (2/3)
 
 - Oct 30th: Spin - advanced features
+
+- Oct 14th: Model checking- NuSMV (1/2)
+
+- Oct 16th: Model checking- NuSMV (2/2)
 
 - Esterel
 https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
@@ -121,7 +121,8 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
   - CS402 Intro to Logic (Predicate Calculus - Semantics)
   - SMT-competition 2022
 
-- June 8: [Using SAT solver for Sudoku](5-smt/lec44-sudoku-v2.pptx) [[pdf]](5-smt/lec44-sudoku-v2.pdf), Q&A for the final exam, LLVM IR basics, CLANG vs LLVM
+- June 8: [Using SAT solver for Sudoku](5-smt/lec44-sudoku-v2.pptx) [[pdf]](5-smt/lec44-sudoku-v2.pdf), 
+
   - "Sudoku as a SAT problem" by I.Lynce and J.Ouaknine, Intl. Symp. on Artificial Intelligence and Mathematics 2006
   - The SuDoku Puzzle as a Satisfiability Problem
 
