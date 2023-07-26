@@ -48,11 +48,11 @@ This class covers formal techniques to model and verify complex systems. It is h
 
 - Students will learn formal semantics of a target system w.r.t. communication and concurrency through process algebraic framework. 
   - Particularly, students will learn how to define/prove **correctness** of a target system in various ways. 
-  
-- Students will learn model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  
-  - Students will learn how verification engines such as SAT/SMT solvers works.
 
-- This class focusses on  **practical applications** of model checkers by applying open-source model checkers such as CWB-NC, Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
+- Students will learn model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  
+  -  This class guides students to learn the underlying verification engine of such techniques/tools such as SAT/SMT solvers.
+
+- This class focusses on  **practical applications** of model checkers by applying open-source model checkers such as CWB-NC, Spin, NuSMV, CBMC, and so on.
 
 ## Course Schedule
 
