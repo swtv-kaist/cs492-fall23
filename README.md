@@ -26,7 +26,7 @@
   - Highly recommend to take CS458 after taking CS230 System Programming first
  --->
   
-- Grading: attendance/class participation/quiz: 30%, HW: 30%, final exam:40%
+- Grading: attendance/class participation/quiz: 30%, HW: 30%, mid/final exams:40%
   - You should turn on your web cam when you participate an online class; class attendance will not be counted otherwise.
   - More than 7 absences of the class will get F grade
   - Late attendance shall be counted as 1/3 absence. If a student is not able to attend a class due to an important event (e.g., attending conf., etc.), he/she should submit 1 week prior notice to the professor.
@@ -87,15 +87,16 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Oct 5: Equivalence hierarchy
 
 ### Part III:  Model Checking by using SPIN and NuSMV Model Checkers
-  
-- Oct 10: Linear Temporal Logic
 
-- Oct 12: Model checking- Spin (1/3), Spin (2/3)
+- Oct 10: Model checker - Spin (1/3)
 
 - **Oct 19: Midterm exam (closed book) 5:30 - 7:00 pm**
 
-- Oct 24: Spin - advanced features
+- Oct 12: Spin  (2/3) 
 
+- Oct 24: Spin  (3/3) 
+
+- Oct 26: Linear Temporal Logic
 
 <!-- 
 - Oct 12: Computational Tree Logic
@@ -108,7 +109,7 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 
 ### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
-- Oct 26, 31: [SAT-based bounded software model checking](4-model-checking/lec21-model_checking-v3.pptx) [[pdf]](4-model-checking/lec21-model_checking-v3.pdf)
+- Oct 31: [SAT-based bounded software model checking](4-model-checking/lec21-model_checking-v3.pptx) [[pdf]](4-model-checking/lec21-model_checking-v3.pdf)
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
 
 - Nov 2: [Software model checking examples](4-model-checking/lec22-SMC-examples-v4.pptx) [[pdf]](4-model-checking/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-model-checking/lec25-cbmc-memory-model.pptx) [[pdf]](4-model-checking/lec25-cbmc-memory-model.pdf)
