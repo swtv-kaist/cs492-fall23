@@ -13,9 +13,9 @@
   - E-mail: moonzoo.kim @ gmail.com
   - Office hour: Tues 3:00-4:00 PM (reservation e-mail is preferred)
 
-- Teaching assistants: Ahcheong Lee (youngseok.choi@kaist.ac.kr)  
+- Teaching assistants: Ahcheong Lee (ahcheong.lee@gmail.com)  
 
-- Lecture hours: Tue/Thur 5:30 - 6:15 PM
+- Lecture hours: Tue/Thur 5:30 - 6:45 PM
 
 - Lecture room: E3 Rm#2443 (and through Zoom)
   - a face-to-face lecture on Tues and an online lecture on Thurs (this plan may change later) 
@@ -35,19 +35,18 @@
 - Homework:
   - Homework should be submitted through KLMS https://klms.kaist.ac.kr/course/view.php?id=145058
   - Late HW will be accepted with 10% penalty of the max score in 1 day, 30% penalty of the max score in 3 days. HW will not be accepted after then.
-    - Hint: many questions of exams are from the homeworks.
   - All programming HWs you submit must be able to be replayed by executing a single script file on a TA's server account (i.e., submitted HW should not have a dependency on your home directory, environment, etc.).  Also, the replayed execution must demonstrate the same output to the submitted hw. You will get 10% penalty of the max score otherwise.
   - For your programming HWs, you should not use external libraries which are not available on the server machines.  If you really need an external library, you have to ask TAs to install it on the server machines.
   - Please, include your student ID in the name of your submiited file(s), so that TAs can easily identify which files are yours.
   
 - Questions on the course materials and homeworks should be posted as github issues 
-  - https://github.com/swtv-kaist/cs458-spring23/issues 
+  - https://github.com/swtv-kaist/cs492-fall23/issues 
 
 
 ## Syllabus
 This class covers formal techniques to model and verify complex systems. It is highly challenging to design and verify systems correctly because of the high complexity of systems caused by reactive characteristics, concurrency, platform dependency and so on. Students will learn formal techniques to resolve such challenges.
 
-In particular, this class teaches model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  Also, the class focusses on  **practical applications** of model checkers by applying open-source model checkers such as Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
+First, students will learn formal semantics of ``correctness`` w.r.t. communication and concurrency through process algebraic framework. Next, students will learn model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  Also, the class focusses on  **practical applications** of model checkers by applying open-source model checkers such as Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
 
 ## Course Schedule
 
