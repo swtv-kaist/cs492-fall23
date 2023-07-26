@@ -79,16 +79,16 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Sep 21: Equivalence Semantics of CCS
 
-- Sep 26: Case study of multiple reader/writer system
+- Sep 26: Case study of a multiple reader/writer system
 
 - Oct 5: Equivalence hierarchy
 
 ### Part III:  Model Checking by using SPIN and NuSMV Model Checkers
   
 
-- Oct 10: Computational Tree Logic
+- Oct 10: Linear Temporal Logic
 
-- Oct 12: Linear Temporal Logic
+- Oct 12: Computational Tree Logic
 
 - Oct 17: Model checking- Spin (1/3), Spin (2/3)
 
@@ -96,9 +96,8 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Oct 26: Spin - advanced features
 
-- Oct 31: Model checking- NuSMV (1/2)
-
-- Nov 2: Model checking- NuSMV (2/2)
+<! - Oct 31: Model checking- NuSMV (1/2)
+- Nov 2: Model checking- NuSMV (2/2) >
 
 - Esterel
 https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
@@ -118,20 +117,28 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 
 - Nov 21: [Verification of the multi-sector read of flash memory storage](4-model-checking/lec27-SMC-examples2.pptx) [[pdf]](4-model-checking/lec27-SMC-examples2.pdf) 
 
+### Part V: Path Model Checking by using CROWN Model Checker (a.k.a Concolic testing, dynamic symbolic execution) 
 
-### Part V: Testing/Verification Engine - SAT/SMT Solver
+- May 18, 23: [Automated SW analysis for high reliability: a Concolic testing approach](3-fuzz-concolic/lec31-concolic-v6.pptx) [[pdf]](3-fuzz-concolic/lec31-concolic-v6.pdf)
+  - [Industrial Application of Concolic Testing on Embedded Software: Case Studies [ICSE'12 paper]](3-fuzz-concolic/icst-2012-slp-busybox-ls.pdf)
 
-- Nov 23: [SMTlib tutorial](5-smt/lec40-smtlibV2-v5.pptx) [[pdf]](5-smt/lec40-smtlibV2-v5.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](5-smt/lec43-first-order-theories.pptx) [[pdf]](5-smt/lec43-first-order-theories.pdf)
+- May 23, 25: [CROWN tutorial](3-fuzz-concolic/lec32-crown_tutorial-v3.pptx) [[pdf]](3-fuzz-concolic/lec32-crown_tutorial-v3.pdf)
+  - [tutorial-examples](3-fuzz-concolic/code/tutorial-examples.zip)
+
+### Part VI: Testing/Verification Engine - SAT/SMT Solver
+
+- Nov 23: [Using SAT solver for Sudoku](5-smt/lec44-sudoku-v2.pptx) [[pdf]](5-smt/lec44-sudoku-v2.pdf), 
+
+  - "Sudoku as a SAT problem" by I.Lynce and J.Ouaknine, Intl. Symp. on Artificial Intelligence and Mathematics 2006
+  - The SuDoku Puzzle as a Satisfiability Problem
+
+- Nov 28: [SMTlib tutorial](5-smt/lec40-smtlibV2-v5.pptx) [[pdf]](5-smt/lec40-smtlibV2-v5.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](5-smt/lec43-first-order-theories.pptx) [[pdf]](5-smt/lec43-first-order-theories.pdf)
   - SMTlib examples
   - Examples of First Order Theories [pdf] (for concolic testing, UML OCL, JML, pre/post condition verification, etc)
   - Definition of "theory"
   - CS402 Intro to Logic (Predicate Calculus - Semantics)
   - SMT-competition 2022
 
-- Nov 28: [Using SAT solver for Sudoku](5-smt/lec44-sudoku-v2.pptx) [[pdf]](5-smt/lec44-sudoku-v2.pdf), 
 
-  - "Sudoku as a SAT problem" by I.Lynce and J.Ouaknine, Intl. Symp. on Artificial Intelligence and Mathematics 2006
-  - The SuDoku Puzzle as a Satisfiability Problem
-
-- **June 13:  Final exam (closed book)**
+- **Dec 12:  Final exam (closed book)**
 
