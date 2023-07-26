@@ -86,7 +86,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Oct 5: Equivalence hierarchy
 
-### Part III:  Model Checking by using SPIN and NuSMV Model Checkers
+### Part III:  Model Checking by using SPIN  
 
 - Oct 10: Model checker - Spin (1/3)
 
@@ -133,7 +133,7 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 - Nov 28, 30: [CROWN Examples](3-fuzz-concolic/lec33-crown-Examples-v2.pptx) [[pdf]](3-fuzz-concolic/lec33-crown-Examples-v2.pdf) 
   - [crown_examples.zip](3-fuzz-concolic/code/crown_examples.zip) 
 
-### Part VI: Testing/Verification Engine - SAT/SMT Solver
+### Part VI: Verification Engine - SAT/SMT Solver
 
 - Dec 5: [Using SAT solver for Sudoku](5-smt/lec44-sudoku-v2.pptx) [[pdf]](5-smt/lec44-sudoku-v2.pdf), 
 
