@@ -46,36 +46,42 @@
 ## Syllabus
 This class covers formal techniques to model and verify complex systems. It is highly challenging to design and verify systems correctly because of the high complexity of systems caused by reactive characteristics, concurrency, platform dependency and so on. Students will learn formal techniques to resolve such challenges.
 
-First, students will learn formal semantics of **correct execution** of a target system w.r.t. communication and concurrency through process algebraic framework. Next, students will learn model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  Also, the class focusses on  **practical applications** of model checkers by applying open-source model checkers such as Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
+- Students will learn formal semantics of a target system w.r.t. communication and concurrency through process algebraic framework. 
+  - Particularly, students will learn how to define/prove **correctness** of a target system in various ways. 
+  
+- Students will learn model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  
+  - Students will learn how verification engines such as SAT/SMT solvers works.
+
+- This class focusses on  **practical applications** of model checkers by applying open-source model checkers such as CWB-NC, Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
 
 ## Course Schedule
 
 ### Part I: Overview of High Complexity of SW  
 
-- Feb 28 : [Introduction](1-overview/lec1-Intro-AutomatedSWAnalysis_v11.pptx) [[pdf]](1-overview/lec1-Intro-AutomatedSWAnalysis_v11.pdf)
+- Aug 29 : [Introduction](1-overview/lec1-Intro-AutomatedSWAnalysis_v11.pptx) [[pdf]](1-overview/lec1-Intro-AutomatedSWAnalysis_v11.pdf)
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
 
-- Mar 2, 7: [Necessity for systematic & automated testing techniques](1-overview/lec2-Intro-HighComplexitySW_v9.pptx) [[pdf]](1-overview/lec2-Intro-HighComplexitySW_v9.pdf)
+- Aug 31, Sep 5: [Necessity for systematic & automated analysis techniques](1-overview/lec2-Intro-HighComplexitySW_v9.pptx) [[pdf]](1-overview/lec2-Intro-HighComplexitySW_v9.pdf)
 
   - "Variability and Reproducibility in Software Engineering: A Study of Four Companies that Developed the Same System" by Anda et al.
 IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
-- Mar 9: [Overview of testing techniques (including the input partitioning technique)](1-overview/lec3-testing-overview-v3.pptx) [[pdf]](1-overview/lec3-testing-overview-v3.pdf)
+- Sep 7: [Overview of SW analysis techniques (including the input partitioning technique)](1-overview/lec3-testing-overview-v3.pptx) [[pdf]](1-overview/lec3-testing-overview-v3.pdf)
 
 ### Part II: Systematic Modeling and Verification by using Process Algebra CCS
 
-- Sep 4: Intro. to Process Algebra
+- Sep 12: Intro. to Process Algebra
 
-- Sep 9: Formal Semantics of CCS
+- Sep 14: Formal Semantics of CCS
 
-- Sep 11: Examples of CCS models
+- Sep 19: Examples of CCS models
 
-- Sep 23: Equivalence Semantics of CCS
+- Sep 21: Equivalence Semantics of CCS
 
-- Sep 25: Case study of multiple reader/writer system
+- Sep 26: Case study of multiple reader/writer system
 
-- Sep 30: Equivalence hierarchy
+- Oct 5: Equivalence hierarchy
 
 ### Part III:  Model Checking by using SPIN and NuSMV Model Checkers
   
