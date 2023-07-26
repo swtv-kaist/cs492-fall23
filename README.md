@@ -109,38 +109,38 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 
 ### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
-- Oct 31: [SAT-based bounded software model checking](4-model-checking/lec21-model_checking-v3.pptx) [[pdf]](4-model-checking/lec21-model_checking-v3.pdf)
+- Oct 31: [SAT-based bounded software model checking](4-cbmc/lec21-model_checking-v3.pptx) [[pdf]](4-cbmc/lec21-model_checking-v3.pdf)
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
 
-- Nov 2: [Software model checking examples](4-model-checking/lec22-SMC-examples-v4.pptx) [[pdf]](4-model-checking/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-model-checking/lec25-cbmc-memory-model.pptx) [[pdf]](4-model-checking/lec25-cbmc-memory-model.pdf)
+- Nov 2: [Software model checking examples](4-cbmc/lec22-SMC-examples-v4.pptx) [[pdf]](4-cbmc/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-cbmc/lec25-cbmc-memory-model.pptx) [[pdf]](4-cbmc/lec25-cbmc-memory-model.pdf)
   - code examples for CBMC
   - cbmc-memory-model-example.zip
 
-- Nov 7:  [Model Checking flash memory storage platform software - an industrial case study](4-model-checking/lec26-ase08-v2.pptx) [[pdf]](4-model-checking/lec26-ase08-v2.pdf)
+- Nov 7:  [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v2.pptx) [[pdf]](4-cbmc/lec26-ase08-v2.pdf)
   - "A Comparative Study of Software Model Checkers as Unit Testing Tools: An Industrial Case Study," IEEE Transactions on Software Engineering (TSE), vol 37, no 2, pages 146-160, March 2011
   - "Formal Verification of a Flash Memory Device Driver- an Experience Report" Spin 2008, by M.Kim, Y.Kim, Y.Choi, and H.Kim
 
-- Nov 9: [Verification of the multi-sector read of flash memory storage](4-model-checking/lec27-SMC-examples2.pptx) [[pdf]](4-model-checking/lec27-SMC-examples2.pdf) 
+- Nov 9: [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples2.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
 
 ### Part V: Path Model Checking by using CROWN Model Checker (a.k.a Concolic testing, dynamic symbolic execution) 
 
-- Nov 14, 16: [Automated SW analysis for high reliability: a Concolic testing approach](3-fuzz-concolic/lec31-concolic-v6.pptx) [[pdf]](3-fuzz-concolic/lec31-concolic-v6.pdf)
-  - [Industrial Application of Concolic Testing on Embedded Software: Case Studies [ICSE'12 paper]](3-fuzz-concolic/icst-2012-slp-busybox-ls.pdf)
+- Nov 14, 16: [Automated SW analysis for high reliability: a Concolic testing approach](5-crown/lec31-concolic-v6.pptx) [[pdf]](5-crown/lec31-concolic-v6.pdf)
+  - [Industrial Application of Concolic Testing on Embedded Software: Case Studies [ICSE'12 paper]](5-crown/icst-2012-slp-busybox-ls.pdf)
 
-- Nov 21, 23: [CROWN tutorial](3-fuzz-concolic/lec32-crown_tutorial-v3.pptx) [[pdf]](3-fuzz-concolic/lec32-crown_tutorial-v3.pdf)
-  - [tutorial-examples](3-fuzz-concolic/code/tutorial-examples.zip)
+- Nov 21, 23: [CROWN tutorial](5-crown/lec32-crown_tutorial-v3.pptx) [[pdf]](5-crown/lec32-crown_tutorial-v3.pdf)
+  - [tutorial-examples](5-crown/code/tutorial-examples.zip)
 
-- Nov 28, 30: [CROWN Examples](3-fuzz-concolic/lec33-crown-Examples-v2.pptx) [[pdf]](3-fuzz-concolic/lec33-crown-Examples-v2.pdf) 
-  - [crown_examples.zip](3-fuzz-concolic/code/crown_examples.zip) 
+- Nov 28, 30: [CROWN Examples](5-crown/lec33-crown-Examples-v2.pptx) [[pdf]](5-crown/lec33-crown-Examples-v2.pdf) 
+  - [crown_examples.zip](5-crown/code/crown_examples.zip) 
 
 ### Part VI: Verification Engine - SAT/SMT Solver
 
-- Dec 5: [Using SAT solver for Sudoku](5-smt/lec44-sudoku-v2.pptx) [[pdf]](5-smt/lec44-sudoku-v2.pdf), 
+- Dec 5: [Using SAT solver for Sudoku](6-sat-smt/lec44-sudoku-v2.pptx) [[pdf]](6-sat-smt/lec44-sudoku-v2.pdf), 
 
   - "Sudoku as a SAT problem" by I.Lynce and J.Ouaknine, Intl. Symp. on Artificial Intelligence and Mathematics 2006
   - The SuDoku Puzzle as a Satisfiability Problem
 
-- Dec 7: [SMTlib tutorial](5-smt/lec40-smtlibV2-v5.pptx) [[pdf]](5-smt/lec40-smtlibV2-v5.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](5-smt/lec43-first-order-theories.pptx) [[pdf]](5-smt/lec43-first-order-theories.pdf)
+- Dec 7: [SMTlib tutorial](6-sat-smt/lec40-smtlibV2-v5.pptx) [[pdf]](6-sat-smt/lec40-smtlibV2-v5.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](6-sat-smt/lec43-first-order-theories.pptx) [[pdf]](6-sat-smt/lec43-first-order-theories.pdf)
   - SMTlib examples
   - Examples of First Order Theories [pdf] (for concolic testing, UML OCL, JML, pre/post condition verification, etc)
   - Definition of "theory"
