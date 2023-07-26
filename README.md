@@ -86,47 +86,49 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 ### Part III:  Model Checking by using SPIN and NuSMV Model Checkers
   
 
-- Oct 9th: Computational Tree Logic
+- Oct 10: Computational Tree Logic
 
-- Linear Temporal Logic
+- Oct 12: Linear Temporal Logic
 
-- Oct 28th: Model checking- Spin (1/3), Spin (2/3)
+- Oct 17: Model checking- Spin (1/3), Spin (2/3)
 
-- Oct 30th: Spin - advanced features
+- Oct 19, 24: Midterm exam period
 
-- Oct 14th: Model checking- NuSMV (1/2)
+- Oct 26: Spin - advanced features
 
-- Oct 16th: Model checking- NuSMV (2/2)
+- Oct 31: Model checking- NuSMV (1/2)
+
+- Nov 2: Model checking- NuSMV (2/2)
 
 - Esterel
 https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 
 ### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
-- May 16, 18: [SAT-based bounded software model checking](4-model-checking/lec21-model_checking-v3.pptx) [[pdf]](4-model-checking/lec21-model_checking-v3.pdf)
+- Nov 7, 9: [SAT-based bounded software model checking](4-model-checking/lec21-model_checking-v3.pptx) [[pdf]](4-model-checking/lec21-model_checking-v3.pdf)
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
 
-- May 23: [Software model checking examples](4-model-checking/lec22-SMC-examples-v4.pptx) [[pdf]](4-model-checking/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-model-checking/lec25-cbmc-memory-model.pptx) [[pdf]](4-model-checking/lec25-cbmc-memory-model.pdf)
+- Nov 14: [Software model checking examples](4-model-checking/lec22-SMC-examples-v4.pptx) [[pdf]](4-model-checking/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-model-checking/lec25-cbmc-memory-model.pptx) [[pdf]](4-model-checking/lec25-cbmc-memory-model.pdf)
   - code examples for CBMC
   - cbmc-memory-model-example.zip
 
-- May 25:  [Model Checking flash memory storage platform software - an industrial case study](4-model-checking/lec26-ase08-v2.pptx) [[pdf]](4-model-checking/lec26-ase08-v2.pdf)
+- Nov 16:  [Model Checking flash memory storage platform software - an industrial case study](4-model-checking/lec26-ase08-v2.pptx) [[pdf]](4-model-checking/lec26-ase08-v2.pdf)
   - "A Comparative Study of Software Model Checkers as Unit Testing Tools: An Industrial Case Study," IEEE Transactions on Software Engineering (TSE), vol 37, no 2, pages 146-160, March 2011
   - "Formal Verification of a Flash Memory Device Driver- an Experience Report" Spin 2008, by M.Kim, Y.Kim, Y.Choi, and H.Kim
 
-- May 30: [Verification of the multi-sector read of flash memory storage](4-model-checking/lec27-SMC-examples2.pptx) [[pdf]](4-model-checking/lec27-SMC-examples2.pdf) 
+- Nov 21: [Verification of the multi-sector read of flash memory storage](4-model-checking/lec27-SMC-examples2.pptx) [[pdf]](4-model-checking/lec27-SMC-examples2.pdf) 
 
 
 ### Part V: Testing/Verification Engine - SAT/SMT Solver
 
-- June 1: [SMTlib tutorial](5-smt/lec40-smtlibV2-v5.pptx) [[pdf]](5-smt/lec40-smtlibV2-v5.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](5-smt/lec43-first-order-theories.pptx) [[pdf]](5-smt/lec43-first-order-theories.pdf)
+- Nov 23: [SMTlib tutorial](5-smt/lec40-smtlibV2-v5.pptx) [[pdf]](5-smt/lec40-smtlibV2-v5.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](5-smt/lec43-first-order-theories.pptx) [[pdf]](5-smt/lec43-first-order-theories.pdf)
   - SMTlib examples
   - Examples of First Order Theories [pdf] (for concolic testing, UML OCL, JML, pre/post condition verification, etc)
   - Definition of "theory"
   - CS402 Intro to Logic (Predicate Calculus - Semantics)
   - SMT-competition 2022
 
-- June 8: [Using SAT solver for Sudoku](5-smt/lec44-sudoku-v2.pptx) [[pdf]](5-smt/lec44-sudoku-v2.pdf), 
+- Nov 28: [Using SAT solver for Sudoku](5-smt/lec44-sudoku-v2.pptx) [[pdf]](5-smt/lec44-sudoku-v2.pdf), 
 
   - "Sudoku as a SAT problem" by I.Lynce and J.Ouaknine, Intl. Symp. on Artificial Intelligence and Mathematics 2006
   - The SuDoku Puzzle as a Satisfiability Problem
