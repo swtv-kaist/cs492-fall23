@@ -46,7 +46,7 @@
 ## Syllabus
 This class covers formal techniques to model and verify complex systems. It is highly challenging to design and verify systems correctly because of the high complexity of systems caused by reactive characteristics, concurrency, platform dependency and so on. Students will learn formal techniques to resolve such challenges.
 
-First, students will learn formal semantics of ``correctness`` w.r.t. communication and concurrency through process algebraic framework. Next, students will learn model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  Also, the class focusses on  **practical applications** of model checkers by applying open-source model checkers such as Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
+First, students will learn formal semantics of **correct execution** of a target system w.r.t. communication and concurrency through process algebraic framework. Next, students will learn model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  Also, the class focusses on  **practical applications** of model checkers by applying open-source model checkers such as Spin, NuSMV, CBMC, and so on. Also, it guides students to learn the underlying fundamental algorithms of such techniques/tools to improve the performance of formal modeling and verification.  
 
 ## Course Schedule
 
