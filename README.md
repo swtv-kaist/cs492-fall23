@@ -69,19 +69,19 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 ### Part II: Systematic Modeling and Verification by using Process Algebra CCS
 
-- Sep 12: Intro. to Process Algebra
+- Sep 12: [Intro. to Process Algebra](2-ccs/lec21.ppt) [[pdf]](2-ccs/lec21.pdf)
 
-- Sep 14: Formal Semantics of CCS
+- Sep 14: [Formal Semantics of CCS](2-ccs/lec22.ppt) [[pdf]](2-ccs/lec22.pdf)
 
-- Sep 19: Examples of CCS models
+- Sep 19: [Examples of CCS models](2-ccs/lec23.ppt) [[pdf]](2-ccs/lec23.pdf)
 
-- Sep 21: Equivalence Semantics of CCS
+- Sep 21: [Equivalence Semantics of CCS](2-ccs/lec24.ppt) [[pdf]](2-ccs/lec24.pdf)
 
-- Sep 26: Case study of a multiple reader/writer system
+- Sep 26: [Case study of a multiple reader/writer system](2-ccs/lec25.ppt) [[pdf]](2-ccs/lec25.pdf)
 
 - Sep 28, Oct 3: No class due to thanksgiving holidays and national foundation day
 
-- Oct 5: Equivalence hierarchy
+- Oct 5: [Equivalence hierarchy](2-ccs/lec26.ppt) [[pdf]](2-ccs/lec26.pdf)
 
 ### Part III:  Model Checking by using SPIN  
 
