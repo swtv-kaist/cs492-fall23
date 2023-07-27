@@ -20,12 +20,9 @@
 - Lecture room: E3 Rm#2443 (and through Zoom)
   - a face-to-face lecture on Tues and an online lecture on Thurs (this plan may change later) 
   - Zoom link for Thurs class: https://kaist.zoom.us/j/5258253316
-<!---
-- Prerequisite: proficiency in C/C++ programming and Linux utilities
-  - Due to the high load of TA, TA will not provide help for basic C/C++/Linux questions.
-  - Highly recommend to take CS458 after taking CS230 System Programming first
- --->
-  
+
+- Prerequisite: None  
+    
 - Grading: attendance/class participation/quiz: 30%, HW: 30%, mid/final exams:40%
   - You should turn on your web cam when you participate an online class; class attendance will not be counted otherwise.
   - More than 7 absences of the class will get F grade
