@@ -85,15 +85,15 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 ### Part III:  Model Checking by using SPIN  
 
-- Oct 10: Model checker - Spin (1/3)
+- Oct 10: [Model checker - Spin (1/3)](3-spin/lec31.ppt) [[pdf]](3-spin/lec31.pdf)
 
 - **Oct 19: Midterm exam (closed book) 5:30 - 7:00 pm**
 
-- Oct 12: Spin  (2/3) 
+- Oct 12: [Spin (2/3)](3-spin/lec32.ppt) [[pdf]](3-spin/lec32.pdf)
 
-- Oct 24: Spin  (3/3) 
+- Oct 24: [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
 
-- Oct 26: Linear Temporal Logic
+- Oct 26: [Linear Temporal Logic](3-spin/lec34.ppt) [[pdf]](3-spin/lec34.pdf)
 
 <!-- 
 - Oct 12: Computational Tree Logic
