@@ -22,7 +22,8 @@
   - Zoom link for Thurs class: https://kaist.zoom.us/j/5258253316
 
 - Prerequisite: CS204 Discrete Mathematics, CS330 Operating Systems and Lab
-    
+  - This class can be difficult to follow for exchange students.
+
 - Grading: attendance/class participation/quiz: 30%, HW: 30%, mid/final exams:40%
   - You should turn on your web cam when you participate an online class; class attendance will not be counted otherwise.
   - More than 7 absences of the class will get F grade
