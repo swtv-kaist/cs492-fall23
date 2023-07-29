@@ -24,7 +24,7 @@
 - Recommended prerequisite: CS204 Discrete Mathematics
 <!--, CS330 Operating Systems and Lab --> 
   <!-- This class can be difficult to follow for exchange students.-->
-  
+
 - Grading: attendance/class participation/quiz: 30%, HW: 30%, mid/final exams:40%
   - You should turn on your web cam when you participate an online class; class attendance will not be counted otherwise.
   - More than 7 absences of the class will get F grade
@@ -85,7 +85,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Oct 5: [Equivalence hierarchy](2-ccs/lec26.ppt) [[pdf]](2-ccs/lec26.pdf)
 
-### Part III:  Model Checking by using SPIN  
+### Part III:  State Model Checking by using SPIN  
 
 - Oct 10: [Model checker - Spin (1/3)](3-spin/lec31.ppt) [[pdf]](3-spin/lec31.pdf)
 
