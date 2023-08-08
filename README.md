@@ -18,7 +18,7 @@
 - Lecture hours: Tue/Thur 5:30 - 6:45 PM
 
 - Lecture room: E3 Rm#2443 (and through Zoom)
-  - a face-to-face lecture on Tues and an online lecture on Thurs (this plan may change later) 
+  - A face-to-face lecture on Tues and an online lecture on Thurs (this plan may change later) 
   - Zoom link for Thurs class: https://kaist.zoom.us/j/5258253316
 
 - Recommended prerequisite: CS204 Discrete Mathematics
