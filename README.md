@@ -32,7 +32,7 @@
   - The official language in the class is English. All students should submit all written documents such as homework, project reports, exam, etc. in English; 20% penalty of the max score otherwise.  
 
 - Homework:
-  - Unlike CS458, this class has low HW workload; we plan to have only 4 homework assignments.
+  - Unlike CS458, this class has low HW workload; we plan to have only 4~5 homework assignments.
   - Homework should be submitted through KLMS https://klms.kaist.ac.kr/course/view.php?id=145058
     -  Hint: many questions of exams are from the homeworks.
   - Late HW will be accepted with 10% penalty of the max score in 1 day, 30% penalty of the max score in 3 days. HW will not be accepted after then.
