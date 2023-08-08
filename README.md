@@ -53,7 +53,7 @@ This class covers formal techniques to model and verify complex systems. It is h
 - Students will learn model checking techniques that automatically and exhaustively generate and explore a large state space of a target program.  
   -  This class guides students to learn the underlying verification engine of such techniques/tools such as SAT/SMT solvers.
 
-- This class focusses on  **practical applications** of model checkers by applying open-source model checkers such as CWB-NC, Spin, CBMC, CROWNand so on.
+- This class focusses on  **practical applications** of model checkers by applying open-source model checkers such as CWB-NC, Spin, CBMC, CROWN and so on.
 
 ## Course Schedule
 
