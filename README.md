@@ -59,7 +59,7 @@ This class covers formal techniques to model and verify complex systems. It is h
 
 ### Part I: Overview of High Complexity of SW  
 
-- Aug 29 : [Introduction](1-overview/lec1-Intro-AutomatedSWAnalysis_v11.pptx) [[pdf]](1-overview/lec1-Intro-AutomatedSWAnalysis_v11.pdf)
+- Aug 29 : [Introduction](1-overview/lec1-Intro-formalSWverification_v1.pptx) [[pdf]](1-overview/lec1-Intro-formalSWverification_v1.pdf)
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
 
