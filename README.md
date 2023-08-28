@@ -11,7 +11,7 @@
   - Office: 2434 (located at the east wing of E3-1)
   - Phone: 042-350-3543
   - E-mail: moonzoo.kim @ gmail.com
-  - Office hour: Tues 4:00 - 5:00 PM (reservation e-mail is preferred)
+  - Office hour: Tues 4:30 - 5:30 PM (reservation e-mail is preferred)
 
 - Teaching assistants: Ahcheong Lee (ahcheong.lee@gmail.com)  
 
