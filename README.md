@@ -63,12 +63,12 @@ This class covers formal techniques to model and verify complex systems. It is h
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
 
-- Aug 31, Sep 5: [Necessity for systematic & automated analysis techniques](1-overview/lec2-Intro-HighComplexitySW_v9.pptx) [[pdf]](1-overview/lec2-Intro-HighComplexitySW_v9.pdf)
+- Aug 31, Sep 5, Sep 7: [Necessity for systematic & automated analysis techniques](1-overview/lec2-Intro-HighComplexitySW_model_check_v1.pptx) [[pdf]](1-overview/lec2-Intro-HighComplexitySW_model_check_v1.pdf)
 
   - "Variability and Reproducibility in Software Engineering: A Study of Four Companies that Developed the Same System" by Anda et al.
 IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
-- Sep 7: [Overview of SW analysis techniques (including the input partitioning technique)](1-overview/lec3-testing-overview-v3.pptx) [[pdf]](1-overview/lec3-testing-overview-v3.pdf)
+<!-- Sep 7: [Overview of SW analysis techniques (including the input partitioning technique)](1-overview/lec3-testing-overview-v3.pptx) [[pdf]](1-overview/lec3-testing-overview-v3.pdf) -->
 
 ### Part II: Systematic Modeling and Verification by using Process Algebra CCS
 
