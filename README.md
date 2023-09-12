@@ -63,7 +63,7 @@ This class covers formal techniques to model and verify complex systems. It is h
 
 <!--  Feb 28 : <a href="part2-coverage/lec1-Intro-AutomatedSWAnalysis_v11.pptx" download> Introduction2 </a> -->
 
-- Aug 31, Sep 5, Sep 7: [Necessity for systematic & automated analysis techniques](1-overview/lec2-Intro-HighComplexitySW_model_check_v1.pptx) [[pdf]](1-overview/lec2-Intro-HighComplexitySW_model_check_v1.pdf)
+- Aug 31, Sep 5, Sep 7: [Necessity for systematic & automated analysis techniques](1-overview/lec2-Intro-HighComplexitySW_model_check_v3.pptx) [[pdf]](1-overview/lec2-Intro-HighComplexitySW_model_check_v3.pdf)
 
   - "Variability and Reproducibility in Software Engineering: A Study of Four Companies that Developed the Same System" by Anda et al.
 IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
