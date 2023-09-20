@@ -74,7 +74,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Sep 12: [Intro. to Process Algebra](2-ccs/lec21-v4.ppt) [[pdf]](2-ccs/lec21-v4.pdf)
 
-- Sep 14, 19: [Formal Semantics of CCS](2-ccs/lec22-v2.ppt) [[pdf]](2-ccs/lec22-v2.pdf)
+- Sep 14, 19: [Formal Semantics of CCS](2-ccs/lec22-v4.ppt) [[pdf]](2-ccs/lec22-v4.pdf)
   - [Concurrent Workbench New Century manual v1.2](2-ccs/cwb-nc-manual.pdf)
 
 - Sep 19: [Examples of CCS models](2-ccs/lec23.ppt) [[pdf]](2-ccs/lec23.pdf)
