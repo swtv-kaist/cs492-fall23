@@ -86,6 +86,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - No class due to thanksgiving holidays and national foundation day
 
 - Oct 5: [Case study of a multiple reader/writer system](2-ccs/lec26-rw-example.ppt) [[pdf]](2-ccs/lec26-rw-example.pdf)
+  - [End-to-End Deployment of Formal Methodology - a Case Study on Multiple Reader/Writer Program by M.Kim and I.Kang](2-ccs/rw.pdf)
 
 ### Part III:  State Model Checking by using SPIN  
 
