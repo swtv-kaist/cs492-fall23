@@ -74,18 +74,16 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Sep 12: [Intro. to Process Algebra](2-ccs/lec21-v4.ppt) [[pdf]](2-ccs/lec21-v4.pdf)
 
-- Sep 14, 19: [Formal Semantics of CCS](2-ccs/lec22-v4.ppt) [[pdf]](2-ccs/lec22-v4.pdf)
+- Sep 14, 19, 21: [Formal Semantics of CCS](2-ccs/lec22-v5.ppt) [[pdf]](2-ccs/lec22-v5.pdf)
   - [Concurrent Workbench New Century manual v1.2](2-ccs/cwb-nc-manual.pdf)
 
-- Sep 19: [Examples of CCS models](2-ccs/lec23.ppt) [[pdf]](2-ccs/lec23.pdf)
+- Sep 26: [Equivalence Semantics of CCS](2-ccs/lec24.ppt) [[pdf]](2-ccs/lec24.pdf)
 
-- Sep 21: [Equivalence Semantics of CCS](2-ccs/lec24.ppt) [[pdf]](2-ccs/lec24.pdf)
+- Sep 26: [Equivalence hierarchy](2-ccs/lec25-eq-hierarchy.ppt) [[pdf]](2-ccs/lec25-eq-hierarchy.pdf)
 
-- Sep 26: [Case study of a multiple reader/writer system](2-ccs/lec25.ppt) [[pdf]](2-ccs/lec25.pdf)
+- No class due to thanksgiving holidays and national foundation day
 
-- Sep 28, Oct 3: No class due to thanksgiving holidays and national foundation day
-
-- Oct 5: [Equivalence hierarchy](2-ccs/lec26.ppt) [[pdf]](2-ccs/lec26.pdf)
+- Oct 5: [Case study of a multiple reader/writer system](2-ccs/lec26-rw-example.ppt) [[pdf]](2-ccs/lec26-rw-example.pdf)
 
 ### Part III:  State Model Checking by using SPIN  
 
