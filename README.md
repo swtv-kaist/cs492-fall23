@@ -72,9 +72,10 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 ### Part II: Systematic Modeling and Verification by using Process Algebra CCS
 
-- Sep 12: [Intro. to Process Algebra](2-ccs/lec21-v4.ppt) [[pdf]](2-ccs/lec21-v4.pdf)
+- Sep 12, 14: [Intro. to Process Algebra](2-ccs/lec21-v4.ppt) [[pdf]](2-ccs/lec21-v4.pdf)
+  - [A gentle introduction to Process Algebras by Rocco De Nicola](2-ccs/intro-to-pa.pdf)
 
-- Sep 14, 19, 21: [Formal Semantics of CCS](2-ccs/lec22-v5.ppt) [[pdf]](2-ccs/lec22-v5.pdf)
+- Sep 19, 21: [Formal Semantics of CCS](2-ccs/lec22-v5.ppt) [[pdf]](2-ccs/lec22-v5.pdf)
   - [Concurrent Workbench New Century manual v1.2](2-ccs/cwb-nc-manual.pdf)
   - [Example ccs specification](2-ccs/ccs_examples.zip)
 
