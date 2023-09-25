@@ -81,20 +81,20 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Sep 26: [Equivalence Semantics of CCS](2-ccs/lec24.ppt) [[pdf]](2-ccs/lec24.pdf)
 
-- Sep 26: [Equivalence hierarchy](2-ccs/lec25-eq-hierarchy.ppt) [[pdf]](2-ccs/lec25-eq-hierarchy.pdf)
+- Sep 26, Oct 5: [Equivalence hierarchy](2-ccs/lec25-eq-hierarchy.ppt) [[pdf]](2-ccs/lec25-eq-hierarchy.pdf)
 
-- No class due to thanksgiving holidays and national foundation day
+- Sep 28, Oct 3: No class due to thanksgiving holidays and national foundation day
 
-- Oct 5: [Case study of a multiple reader/writer system](2-ccs/lec26-rw-example.ppt) [[pdf]](2-ccs/lec26-rw-example.pdf)
+- Oct 10: [Case study of a multiple reader/writer system](2-ccs/lec26-rw-example.ppt) [[pdf]](2-ccs/lec26-rw-example.pdf)
   - [End-to-End Deployment of Formal Methodology - a Case Study on Multiple Reader/Writer Program by M.Kim and I.Kang](2-ccs/rw.pdf)
 
 ### Part III:  State Model Checking by using SPIN  
 
-- Oct 10: [Model checker - Spin (1/3)](3-spin/lec31.ppt) [[pdf]](3-spin/lec31.pdf)
-
-- **Oct 19: Midterm exam (closed book) 5:30 - 7:00 pm**
+- Oct 12: [Model checker - Spin (1/3)](3-spin/lec31.ppt) [[pdf]](3-spin/lec31.pdf)
 
 - Oct 12: [Spin (2/3)](3-spin/lec32.ppt) [[pdf]](3-spin/lec32.pdf)
+
+- **Oct 19: Midterm exam (closed book) 5:30 - 7:00 pm**
 
 - Oct 24: [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
 
