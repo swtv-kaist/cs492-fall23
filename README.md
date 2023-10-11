@@ -82,7 +82,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Sep 26: [Equivalence Semantics of CCS](2-ccs/lec24-v2.ppt) [[pdf]](2-ccs/lec24-v2.pdf)
 
 - Sep 26, Oct 5: [Equivalence hierarchy](2-ccs/lec25-eq-hierarchy.ppt) [[pdf]](2-ccs/lec25-eq-hierarchy.pdf)
-
+  - [The linear time-branching time spectruc by R.J. van Glabbeek (Concur'90)](2-ccs/linear-branchingtime-spectrumI.pdf)
 - Sep 28, Oct 3: No class due to thanksgiving holidays and national foundation day
 
 - Oct 10: [Case study of a multiple reader/writer system](2-ccs/lec26-rw-example.ppt) [[pdf]](2-ccs/lec26-rw-example.pdf)
