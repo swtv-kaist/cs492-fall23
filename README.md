@@ -85,7 +85,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - [The linear time-branching time spectruc by R.J. van Glabbeek (Concur'90)](2-ccs/linear-branchingtime-spectrumI.pdf)
 - Sep 28, Oct 3: No class due to thanksgiving holidays and national foundation day
 
-- Oct 10: [Case study of a multiple reader/writer system](2-ccs/lec26-rw-example-v3.ppt) [[pdf]](2-ccs/lec26-rw-example-v3.pdf)
+- Oct 10: [Case study of a multiple reader/writer system](2-ccs/lec26-rw-example-v5.ppt) [[pdf]](2-ccs/lec26-rw-example-v5.pdf)
   - [End-to-End Deployment of Formal Methodology - a Case Study on Multiple Reader/Writer Program by M.Kim and I.Kang](2-ccs/rw.pdf) 
     - The CCS specification and LTS of the requirement in the attached paper are incorrect (HPW does not hold).  See the correct ones in the lecture slides.
 
