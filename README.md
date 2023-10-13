@@ -78,6 +78,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Sep 19, 21: [Formal Semantics of CCS](2-ccs/lec22-v5.ppt) [[pdf]](2-ccs/lec22-v5.pdf)
   - [Concurrent Workbench New Century manual v1.2](2-ccs/cwb-nc-manual.pdf)
   - [Example ccs specification](2-ccs/ccs_examples.zip)
+  - [Woojin's VSCode Syntax Highlighting for CCS](https://github.com/woojinnn/ccs_linter)
 
 - Sep 26: [Equivalence Semantics of CCS](2-ccs/lec24-v2.ppt) [[pdf]](2-ccs/lec24-v2.pdf)
 
