@@ -93,13 +93,15 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 ### Part III:  State Model Checking by using SPIN  
 
-- Oct 12: [Model checker - Spin (1/3)](3-spin/lec31.ppt) [[pdf]](3-spin/lec31.pdf), [Spin (2/3)](3-spin/lec32.ppt) [[pdf]](3-spin/lec32.pdf)
+- Oct 12: [Model checker - Spin (1/3)](3-spin/lec31.ppt) [[pdf]](3-spin/lec31.pdf)
   - https://spinroot.com/
 - **Oct 19: Midterm exam (closed book) 5:30 - 7:00 pm**
 
-- Oct 24: [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
+- Oct 24, 26: , [Spin (2/3)](3-spin/lec32.ppt) [[pdf]](3-spin/lec32.pdf), [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
 
-- Oct 26: [Linear Temporal Logic](3-spin/lec34.ppt) [[pdf]](3-spin/lec34.pdf)
+- Oct 31: No class 
+
+- Nov 2: (Offline class) [Linear Temporal Logic](3-spin/lec34.ppt) [[pdf]](3-spin/lec34.pdf)
 
 <!-- 
 - Oct 12: Computational Tree Logic
@@ -112,9 +114,8 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 
 ### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
-- Oct 31: No class 
 
-- Nov 2: 
+- Nov 7: 
 [SAT-based bounded software model checking](4-cbmc/lec21-model_checking-v3.pptx) [[pdf]](4-cbmc/lec21-model_checking-v3.pdf)
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
 
