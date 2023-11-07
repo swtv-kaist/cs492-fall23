@@ -97,11 +97,12 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - https://spinroot.com/
 - **Oct 19: Midterm exam (closed book) 5:30 - 7:00 pm**
 
-- Oct 24, 26: , [Spin (2/3)](3-spin/lec32-v2.ppt) [[pdf]](3-spin/lec32-v2.pdf), [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
+- Oct 24, 26: , [Spin (2/3)](3-spin/lec32-v2.ppt)[[pdf]](3-spin/lec32-v2.pdf)
   - [Promela examples](3-spin/spin_examples.zip)
 - Oct 31: No class 
 
-- Nov 2: (Offline class) [Linear Temporal Logic](3-spin/lec34-v2.ppt) [[pdf]](3-spin/lec34-v2.pdf)
+- Nov 2, 7: [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
+- Nov 9, 14: [Linear Temporal Logic](3-spin/lec34-v2.ppt) [[pdf]](3-spin/lec34-v2.pdf)
 
 <!-- 
 - Oct 12: Computational Tree Logic
@@ -115,7 +116,7 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 ### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
 
-- Nov 7: 
+- Nov 16, 21: 
 [SAT-based bounded software model checking](4-cbmc/lec21-model_checking-v3.pptx) [[pdf]](4-cbmc/lec21-model_checking-v3.pdf)
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
 
@@ -123,12 +124,13 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
   - code examples for CBMC
   - cbmc-memory-model-example.zip
 
-- Nov 7:  [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v2.pptx) [[pdf]](4-cbmc/lec26-ase08-v2.pdf)
+- Nov 23, 28:  [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v2.pptx) [[pdf]](4-cbmc/lec26-ase08-v2.pdf)
   - "A Comparative Study of Software Model Checkers as Unit Testing Tools: An Industrial Case Study," IEEE Transactions on Software Engineering (TSE), vol 37, no 2, pages 146-160, March 2011
   - "Formal Verification of a Flash Memory Device Driver- an Experience Report" Spin 2008, by M.Kim, Y.Kim, Y.Choi, and H.Kim
 
-- Nov 9: [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples2.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
+- Nov 30: [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples2.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
 
+<!--
 ### Part V: Path Model Checking by using CROWN Model Checker (a.k.a Concolic testing, dynamic symbolic execution) 
 
 - Nov 14, 16: [Automated SW analysis for high reliability: a Concolic testing approach](5-crown/lec31-concolic-v6.pptx) [[pdf]](5-crown/lec31-concolic-v6.pdf)
@@ -140,7 +142,8 @@ https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre
 - Nov 28, 30: [CROWN Examples](5-crown/lec33-crown-Examples-v2.pptx) [[pdf]](5-crown/lec33-crown-Examples-v2.pdf) 
   - [crown_examples.zip](5-crown/code/crown_examples.zip) 
 
-### Part VI: Verification Engine - SAT/SMT Solver
+-->
+### Part V: Verification Engine - SAT/SMT Solver
 
 - Dec 5: [Using SAT solver for Sudoku](6-sat-smt/lec44-sudoku-v2.pptx) [[pdf]](6-sat-smt/lec44-sudoku-v2.pdf), 
 
