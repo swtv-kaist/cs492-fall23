@@ -93,15 +93,15 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 ### Part III:  State Model Checking by using SPIN  
 
-- Oct 12: [Model checker - Spin (1/3)](3-spin/lec31.ppt) [[pdf]](3-spin/lec31.pdf)
+- Oct 12: [Model checker - Spin (1/3)](3-spin/lec31-v2.ppt) [[pdf]](3-spin/lec31-v2.pdf)
   - https://spinroot.com/
 - **Oct 19: Midterm exam (closed book) 5:30 - 7:00 pm**
 
-- Oct 24, 26: , [Spin (2/3)](3-spin/lec32.ppt) [[pdf]](3-spin/lec32.pdf), [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
-
+- Oct 24, 26: , [Spin (2/3)](3-spin/lec32-v2.ppt) [[pdf]](3-spin/lec32-v2.pdf), [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
+  - [Promela examples](3-spin/spin_examples.zip)
 - Oct 31: No class 
 
-- Nov 2: (Offline class) [Linear Temporal Logic](3-spin/lec34.ppt) [[pdf]](3-spin/lec34.pdf)
+- Nov 2: (Offline class) [Linear Temporal Logic](3-spin/lec34-v2.ppt) [[pdf]](3-spin/lec34-v2.pdf)
 
 <!-- 
 - Oct 12: Computational Tree Logic
