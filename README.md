@@ -103,7 +103,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Nov 2, 7: [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
 - Nov 9, 14: [Linear Temporal Logic](3-spin/lec34-v2.ppt) [[pdf]](3-spin/lec34-v2.pdf)
-- Nov 14: [Runtime monitoring and checking framework-Java-MaC](3-spin/lec35-Java-MaC-MEDL.ppt)[[pdf]](3-spin/lec35-Java-MaC-MEDL.pdf)
+- Nov 14: [Runtime monitoring and checking framework-Java-MaC](3-spin/lec35-Java-MaC-MEDL.ppt) [[pdf]](3-spin/lec35-Java-MaC-MEDL.pdf)
    
   -  [Java-MaC: A Run-Time Assurance Approach for Java Programs. Formal Methods in System Design (FMSD), vol 24, no 2, pages 129-155, Mar 2004 129-155 by
      Moonzoo Kim, Mahesh Viswanathan, Sampath Kannan, Insup Lee, Oleg Sokolsky](3-spin/FMSD04-javamac.pdf)
