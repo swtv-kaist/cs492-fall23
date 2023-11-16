@@ -103,6 +103,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Nov 2, 7: [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
 - Nov 9, 14: [Linear Temporal Logic](3-spin/lec34-v2.ppt) [[pdf]](3-spin/lec34-v2.pdf)
+  - [Example of LTL requirement for concurrent processes](3-spin/lec34-LTL-example.ppt) [[pdf]](3-spin/lec34-LTL-example.pdf)
 - Nov 14: Bridging the gap between a model and a real-world application: [Runtime monitoring and checking framework-Java-MaC](3-spin/lec35-Java-MaC-MEDL.ppt) [[pdf]](3-spin/lec35-Java-MaC-MEDL.pdf)
    
   -  [Java-MaC: A Run-Time Assurance Approach for Java Programs. Formal Methods in System Design (FMSD), vol 24, no 2, pages 129-155, Mar 2004 by
