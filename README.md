@@ -103,21 +103,13 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Nov 2, 7: [Spin (3/3)](3-spin/lec33.ppt) [[pdf]](3-spin/lec33.pdf)
 - Nov 9, 14: [Linear Temporal Logic](3-spin/lec34-v2.ppt) [[pdf]](3-spin/lec34-v2.pdf)
-- Nov 14: [Runtime monitoring and checking framework-Java-MaC](3-spin/lec35-Java-MaC-MEDL.ppt) [[pdf]](3-spin/lec35-Java-MaC-MEDL.pdf)
+- Nov 14: Bridging the gap between a model and a real-world application: [Runtime monitoring and checking framework-Java-MaC](3-spin/lec35-Java-MaC-MEDL.ppt) [[pdf]](3-spin/lec35-Java-MaC-MEDL.pdf)
    
   -  [Java-MaC: A Run-Time Assurance Approach for Java Programs. Formal Methods in System Design (FMSD), vol 24, no 2, pages 129-155, Mar 2004 by
      M.Kim, M.Viswanathan, S.Kannan, I.Lee, O.Sokolsky](3-spin/FMSD04-javamac.pdf)
 
   -  [Computational Analysis of Run-time Monitoring – Fundamentals of Java-MaC,  Runtime Verification (RV) (ENTCS vol 70 no 4), pages 80-94, July 26 2002 by M.Kim, S.Kannan, I.Lee, O.Sokolsky, and M.Viswanathan](3-spin/ictac04_mac.pdf)
   
-<!-- 
-- Oct 12: Computational Tree Logic
-- Oct 31: Model checking- NuSMV (1/2)
-- Nov 2: Model checking- NuSMV (2/2) -->
-
-<!-- - Esterel
-https://stackoverflow.com/questions/50460177/signal-vs-esterel-vs-lustre   
--->
 
 ### Part IV: SAT-based Model Checking by using CBMC Model Checker
 
