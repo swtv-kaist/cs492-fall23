@@ -127,7 +127,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - "A Comparative Study of Software Model Checkers as Unit Testing Tools: An Industrial Case Study," IEEE Transactions on Software Engineering (TSE), vol 37, no 2, pages 146-160, March 2011
   - "Formal Verification of a Flash Memory Device Driver- an Experience Report" Spin 2008, by M.Kim, Y.Kim, Y.Choi, and H.Kim
 
-- Dec 5: [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples2.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
+- Dec 5: (online class) [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples2.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
 
 <!--
 ### Part V: Path Model Checking by using CROWN Model Checker (a.k.a Concolic testing, dynamic symbolic execution) 
@@ -143,7 +143,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 -->
 
-- Dec 7: [Using SAT solver for Sudoku](6-sat-smt/lec44-sudoku-v2.pptx) [[pdf]](6-sat-smt/lec44-sudoku-v2.pdf), 
+- Dec 7: (offline class) [Using SAT solver for Sudoku](6-sat-smt/lec44-sudoku-v2.pptx) [[pdf]](6-sat-smt/lec44-sudoku-v2.pdf), 
 
   - "Sudoku as a SAT problem" by I.Lynce and J.Ouaknine, Intl. Symp. on Artificial Intelligence and Mathematics 2006
   - The SuDoku Puzzle as a Satisfiability Problem
