@@ -119,15 +119,15 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 [SAT-based bounded software model checking](4-cbmc/lec21-model_checking-v3.pptx) [[pdf]](4-cbmc/lec21-model_checking-v3.pdf)
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
 
-[Software model checking examples](4-cbmc/lec22-SMC-examples-v4.pptx) [[pdf]](4-cbmc/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-cbmc/lec25-cbmc-memory-model.pptx) [[pdf]](4-cbmc/lec25-cbmc-memory-model.pdf)
+- Nov 28: [Software model checking examples](4-cbmc/lec22-SMC-examples-v4.pptx) [[pdf]](4-cbmc/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-cbmc/lec25-cbmc-memory-model.pptx) [[pdf]](4-cbmc/lec25-cbmc-memory-model.pdf)
   - code examples for CBMC
   - cbmc-memory-model-example.zip
 
-- Nov 23, 28:  [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v2.pptx) [[pdf]](4-cbmc/lec26-ase08-v2.pdf)
+- Nov 30:  [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v2.pptx) [[pdf]](4-cbmc/lec26-ase08-v2.pdf)
   - "A Comparative Study of Software Model Checkers as Unit Testing Tools: An Industrial Case Study," IEEE Transactions on Software Engineering (TSE), vol 37, no 2, pages 146-160, March 2011
   - "Formal Verification of a Flash Memory Device Driver- an Experience Report" Spin 2008, by M.Kim, Y.Kim, Y.Choi, and H.Kim
 
-- Nov 30: [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples2.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
+- Dec 5: [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples2.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
 
 <!--
 ### Part V: Path Model Checking by using CROWN Model Checker (a.k.a Concolic testing, dynamic symbolic execution) 
@@ -142,20 +142,20 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - [crown_examples.zip](5-crown/code/crown_examples.zip) 
 
 -->
-### Part V: Verification Engine - SAT/SMT Solver
 
-- Dec 5: [Using SAT solver for Sudoku](6-sat-smt/lec44-sudoku-v2.pptx) [[pdf]](6-sat-smt/lec44-sudoku-v2.pdf), 
+- Dec 7: [Using SAT solver for Sudoku](6-sat-smt/lec44-sudoku-v2.pptx) [[pdf]](6-sat-smt/lec44-sudoku-v2.pdf), 
 
   - "Sudoku as a SAT problem" by I.Lynce and J.Ouaknine, Intl. Symp. on Artificial Intelligence and Mathematics 2006
   - The SuDoku Puzzle as a Satisfiability Problem
 
+<!--
 - Dec 7: [SMTlib tutorial](6-sat-smt/lec40-smtlibV2-v5.pptx) [[pdf]](6-sat-smt/lec40-smtlibV2-v5.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](6-sat-smt/lec43-first-order-theories.pptx) [[pdf]](6-sat-smt/lec43-first-order-theories.pdf)
   - SMTlib examples
   - Examples of First Order Theories [pdf] (for concolic testing, UML OCL, JML, pre/post condition verification, etc)
   - Definition of "theory"
   - CS402 Intro to Logic (Predicate Calculus - Semantics)
   - SMT-competition 2022
-
+-->
 
 - **Dec 14:  Final exam (closed book) 5:30 - 7:00 pm**
 
