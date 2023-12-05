@@ -119,15 +119,18 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 [SAT-based bounded software model checking](4-cbmc/lec21-model_checking-v3.pptx) [[pdf]](4-cbmc/lec21-model_checking-v3.pdf)
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
 
-- Nov 28: [Software model checking examples](4-cbmc/lec22-SMC-examples-v4.pptx) [[pdf]](4-cbmc/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-cbmc/lec25-cbmc-memory-model.pptx) [[pdf]](4-cbmc/lec25-cbmc-memory-model.pdf)
+- Nov 28, 30: [Software model checking examples](4-cbmc/lec22-SMC-examples-v4.pptx) [[pdf]](4-cbmc/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-cbmc/lec25-cbmc-memory-model.pptx) [[pdf]](4-cbmc/lec25-cbmc-memory-model.pdf)
   - code examples for CBMC
   - cbmc-memory-model-example.zip
 
-- Nov 30:  [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v2.pptx) [[pdf]](4-cbmc/lec26-ase08-v2.pdf)
+- Dec 5: [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v3.pptx) [[pdf]](4-cbmc/lec26-ase08-v3.pdf)
+  - [recorded movie](4-cbmc/cbmc-onenand-case-study.mp4), [slide page time index](4-cbmc/lec26-ase08-v2-movie-page-info.txt)
   - "A Comparative Study of Software Model Checkers as Unit Testing Tools: An Industrial Case Study," IEEE Transactions on Software Engineering (TSE), vol 37, no 2, pages 146-160, March 2011
   - "Formal Verification of a Flash Memory Device Driver- an Experience Report" Spin 2008, by M.Kim, Y.Kim, Y.Choi, and H.Kim
 
-- Dec 5: (online class) [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples2.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
+<!--
+- Dec 5: (recorded online class) [Verification of the multi-sector read of flash memory storage](4-cbmc/lec27-SMC-examples3.pptx) [[pdf]](4-cbmc/lec27-SMC-examples2.pdf) 
+-->
 
 <!--
 ### Part V: Path Model Checking by using CROWN Model Checker (a.k.a Concolic testing, dynamic symbolic execution) 
