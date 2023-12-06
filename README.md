@@ -124,7 +124,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - cbmc-memory-model-example.zip
 
 - Dec 5: [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v3.pptx) [[pdf]](4-cbmc/lec26-ase08-v3.pdf)
-  - [recorded movie](https://drive.google.com/file/d/1CHfy_yAYhDyc8ltZzjKVsroQe0PB6NO1/view?usp=sharing), [slide page time index](4-cbmc/lec26-ase08-v2-movie-page-info.txt)
+  - [recorded movie](https://drive.google.com/file/d/1CHfy_yAYhDyc8ltZzjKVsroQe0PB6NO1/view?usp=sharing)
   - "A Comparative Study of Software Model Checkers as Unit Testing Tools: An Industrial Case Study," IEEE Transactions on Software Engineering (TSE), vol 37, no 2, pages 146-160, March 2011
   - "Formal Verification of a Flash Memory Device Driver- an Experience Report" Spin 2008, by M.Kim, Y.Kim, Y.Choi, and H.Kim
 
