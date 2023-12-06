@@ -120,8 +120,8 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - The importance of unwinding loop bound: SAT-based Bounded Software Model Checking for Embedded Software: A Case Study, APSEC 2014 by Kim et al
 
 - Nov 28, 30: [Software model checking examples](4-cbmc/lec22-SMC-examples-v4.pptx) [[pdf]](4-cbmc/lec22-SMC-examples-v4.pdf), [CBMC memory model](4-cbmc/lec25-cbmc-memory-model.pptx) [[pdf]](4-cbmc/lec25-cbmc-memory-model.pdf)
-  - code examples for CBMC
-  - cbmc-memory-model-example.zip
+  - [code examples for CBMC](4-cbmc/examples.zip)
+  - [cbmc-memory-model-example.zip](4-cbmc/memory-model.zip)
 
 - Dec 5: [Model Checking flash memory storage platform software - an industrial case study](4-cbmc/lec26-ase08-v3.pptx) [[pdf]](4-cbmc/lec26-ase08-v3.pdf)
   - [recorded movie](https://drive.google.com/file/d/1CHfy_yAYhDyc8ltZzjKVsroQe0PB6NO1/view?usp=sharing)
